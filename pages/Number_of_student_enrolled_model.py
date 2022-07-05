@@ -10,7 +10,7 @@ Period = st.sidebar.selectbox('Select a period', Period)
 Programs = [1,2,3,4,5,6,7,8,9,10]
 Programs = st.sidebar.selectbox('Select numbers of the programs', Programs)
 
-number = -314418.891848 + 156.53*year + 37.0773*Period + 31.5408*Programs
+number = round(-314418.891848 + 156.53*year + 37.0773*Period + 31.5408*Programs)
 
 if(st.button('Calculate number students')):
     st.text("Numbers of the students for the year {} period {} are {}.".format(year,Period,number ))
