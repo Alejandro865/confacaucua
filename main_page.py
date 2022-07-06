@@ -32,7 +32,7 @@ def main_page():
           <div class="card-body">
             Through a dashboard you can view the historical data
             of the Confacauca University since 2010, finding information of interest such as the number of students per year, period and view them by career.
-            <a href="https://app.powerbi.com/view?r=eyJrIjoiMWI2YTE3ODQtNzM4YS00YzZhLWFmYTEtZGY3YWQ4YmQxYTZlIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=ReportSection">Go to the Dashboard</a>
+            <a href="https://app.powerbi.com/view?r=eyJrIjoiOTQyZWU3OGItZTE1MC00NTg3LWEwN2YtYWI5OGEyN2E5Mjk3IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9">Go to the Dashboard</a>
           </div>
         </div>
       </div>
